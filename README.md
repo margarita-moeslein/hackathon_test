@@ -1,4 +1,4 @@
-# Project Name -> hackathon_test
+# Project Name -> hackathon_preparation
 
 Brief description of what your project does.
 
